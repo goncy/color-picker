@@ -1,0 +1,35 @@
+.App {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  will-change: background-color;
+  cursor: pointer;
+}
+
+.App .label {
+  font-size: 22px;
+  padding: 0 16px;
+  background-color: black;
+  border: 2px solid white;
+  color: white;
+}
+
+.App .label .color {
+  margin: 10px 0;
+  display: flex;
+}
+
+.App .label .color .name {
+  font-weight: bold;
+}
+
+.App .label .legend {
+  text-align: center;
+  margin-top: 0;
+}
+
+.App .label .legend small {
+  font-size: 12px;
+  font-style: italic;
+}
