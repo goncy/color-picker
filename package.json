@@ -1,6 +1,6 @@
 {
   "name": "color-picker",
-  "homepage": "https://goncy.github.io/colorpicker/",
+  "homepage": "https://goncy.github.io/color-picker/",
   "private": true,
   "dependencies": {
     "color-convert": "^1.9.1",
